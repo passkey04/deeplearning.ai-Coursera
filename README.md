@@ -21,3 +21,4 @@ Implemented Face recognition using FaceNet algorithm which learns a neural netwo
 • To improve the efficiency of the model, encodings of the faces are stored instead of computing everytime which can be used for comparison.</br>
 # Course-5: Sequence Models </br>
 • ALl assignments are cool especially emojify and Trigger word detection.
+# For further on COnvolutional Neural Networks some papers are included (espcially on gender and age detection)
